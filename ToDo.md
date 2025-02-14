@@ -4,4 +4,4 @@
   - ~~add title~~
   - ~~create structure~~
   - ~~apply styles~~
-  - review
+  - ~~review~~
