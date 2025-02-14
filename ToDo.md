@@ -3,5 +3,5 @@
   - ~~create file~~
   - ~~add title~~
   - ~~create structure~~
-  - apply styles
+  - ~~apply styles~~
   - review
