@@ -2,6 +2,6 @@
 
   - ~~create file~~
   - ~~add title~~
-  - create structure
+  - ~~create structure~~
   - apply styles
   - review
